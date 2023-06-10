@@ -1,0 +1,132 @@
+body{
+    background-color:rgb(225, 231, 255);
+    margin: 0;
+    text-align: center;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+h1{
+  font-size: 1.8rem;
+  margin-top: 40px;
+  margin-bottom: 0px;
+
+}
+button{
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+
+/*********classes************/
+
+.main-div{
+    background-color: white;
+    width: 450px;
+    height: 686px;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 25px 25px 0 rgb(202, 202, 236);
+  }
+  
+  /* .img{
+    border-radius: 7% 7% 0 0;
+  } */
+
+  .words{
+    line-height: 1.8;
+    font-size: 16px;
+    color: rgb(142, 143, 172);
+    font-weight: 500;
+    padding: 0px 60px 0px 60px;
+  }
+
+  .annual-plan{
+    width: 350px;
+    height: 100px;
+    background-color: rgb(250, 251, 255);
+    margin:auto;
+    border-radius: 12px;
+  }
+
+  .micon{
+    height: 55%;
+    width: 25%;
+    float: left;
+    object-fit: contain;
+    margin-top: 20px;
+    margin-left: 5px;
+  }
+  .p2{
+    text-align: left;
+    margin-bottom: 0px;
+    padding-top: 25px;
+    margin-top: 0px;
+    width: 70%;
+    height: auto;
+  }
+  .p3{
+    color: rgb(142, 143, 172);
+    text-align: left;
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    margin-bottom: 16px;
+    width: 70%;
+    height: auto;
+  }
+  .change{
+    color: rgb(70, 70, 206);
+    position: relative;
+    left: 110px;
+    bottom: 50px;
+
+  }
+  .change:hover{
+    color: rgb(108, 45, 255);
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .button{
+    margin-top: 30px;
+    background-color:rgb(66, 66, 231);
+    color: white;
+    display: inline-block;
+    text-align: center;
+    padding: 15px 105px;
+    font-size: 14px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .buttonshadow{
+    box-shadow: 0 16px 16px 0 rgb(212, 212, 250);
+  }
+  .button:hover{
+    background-color:rgb(102, 102, 204) ;
+  }
+
+  .words2{
+    color:rgb(142, 143, 172);
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .words2:hover{
+    color: black;
+    text-decoration: none;
+  }
+  .center{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 15px;
+  }
+  .attribution{
+    margin-top: 50px;
+  }
+
+
+  
+
+  
